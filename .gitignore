@@ -1,0 +1,7 @@
+lab2/dataset/* 
+.venv/*
+typings/*
+.vim 
+.DS_Store
+lab1/dataset/*
+.mypy_cache
